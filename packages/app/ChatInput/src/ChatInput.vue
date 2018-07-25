@@ -49,7 +49,7 @@
 </template>
 
 <script>
-import expressions from "./../../../utils/expressions";
+import expressions from "./../../../utils/Expressions";
 import { MSG_TYPE, CMD } from "@src/utils/constants";
 export default {
     props: {

@@ -1,1 +1,1 @@
-export { default } from "./src/chat-input.vue";
+export { default } from "./src/ChatInput.vue";
